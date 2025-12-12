@@ -1,0 +1,16 @@
+{
+  "name": "justifi-platform",
+  "version": "1.0.0",
+  "description": "Justifi - AI-powered legal research and document automation system",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": ["legal", "ai", "legal-tech"],
+  "author": "",
+  "license": "MIT"
+}
+
+

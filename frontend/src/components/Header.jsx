@@ -33,7 +33,7 @@ const Header = ({ onSignInClick, isAuthenticated, onLogout }) => {
           </div>
           <span className="text-2xl font-heading font-bold text-primary">Justifi</span>
         </div>
-
+         {/* HIII */}
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center space-x-8">
           <button
